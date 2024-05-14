@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 ## Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/anamul-hoque-emtiaj-1b944a1a2/]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/AnamulHaqueEmtiaz?mibextid=ZbWKwL]
-[Resume][Resume]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/files.svg" />][resume]
+
+[linkedin]: https://www.linkedin.com/in/anamul-hoque-emtiaj-1b944a1a2/
+[facebook]: https://www.facebook.com/AnamulHaqueEmtiaz?mibextid=ZbWKwL
+[resume]: https://drive.google.com/file/d/1PZoHX96Srhp0YRhnvA7MALx2xDUfG0WA/view?usp=sharing
+
