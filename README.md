@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/anamul-hoque-emtiaj-1b944a1a2/
 [facebook]: https://www.facebook.com/AnamulHaqueEmtiaz?mibextid=ZbWKwL
-[resume]: https://drive.google.com/file/d/1N0bGsq1v7qsPxBSe34UANasXlCPLj_kw/view?usp=sharing
+[resume]: https://anamul-hoque-emtiaj.github.io/resume.pdf
 
