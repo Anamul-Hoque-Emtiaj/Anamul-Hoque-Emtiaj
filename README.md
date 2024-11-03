@@ -1,7 +1,9 @@
 ### Hi there! I'm Anamul Hoque Emtiaj👋
 ![](https://komarev.com/ghpvc/?username=Anamul-Hoque-Emtiaj&color=brightgreen)
 
-I am a **fourth-year** undergraduate student of **CSE, BUET**(Bangladesh University of Engineering and Technology)
+I’m a final-year Computer Science and Engineering student at BUET, with a passion for backend development and DevOps.
+
+I'm constantly learning and improving, always excited to take on new challenges in backend engineering and DevOps. Feel free to explore my repositories, and reach out if you'd like to collaborate!
 
 <!--
 **Anamul-Hoque-Emtiaj/Anamul-Hoque-Emtiaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
